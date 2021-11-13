@@ -4,6 +4,7 @@ upx的简单GUI应用,主要用于压缩*.dll和*.exe
 
 # upx
 * ver:upx-3.96-win32
+* https://github.com/upx/upx
 
 
 # Qt 
